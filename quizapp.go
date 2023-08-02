@@ -1,7 +1,7 @@
 package main
 
 import(
-	"fmt"
+	""
 )
 func ProbPull(fileName string)([]probs,error ){
 //reads from quiz.csv
